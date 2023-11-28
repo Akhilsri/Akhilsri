@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Akhilsri
+<h1>Hey!👋 I'm Akhil Srivastava.</h1>
+
 - 👀 I’m interested in Web Development, AI, ML, Cloud etc.
 - 🌱 I’m currently learning WebD.
 - 📫 You can reach me on email :- akhilsrivastava801@gmail.com
