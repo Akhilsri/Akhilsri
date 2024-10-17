@@ -8,7 +8,7 @@
 
 <p align="left" style.top-margin = "5px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilsri" alt="akhilsri" /></a> </p><hr>
 
-- 🔭 Open Source Volunteer @ Google DSC Dr. AITH [https://gdsc.community.dev/dr-ambedkar-institute-of-technology-for-handicapped-kanpur/](https://gdsc.community.dev/dr-ambedkar-institute-of-technology-for-handicapped-kanpur/)
+- 🔭 Google DG On Campus Organizer at Dr. AITH [[https://gdsc.community.dev/dr-ambedkar-institute-of-technology-for-handicapped-kanpur/](https://gdg.community.dev/gdg-on-campus-dr-ambedkar-institute-of-technology-for-handicapped-kanpur-india/)](https://gdsc.community.dev/dr-ambedkar-institute-of-technology-for-handicapped-kanpur/)
 
 - 🌱 I’m currently learning **React and Cyber Security**
 
